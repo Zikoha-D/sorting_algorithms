@@ -1,5 +1,6 @@
 ## Alx sorting Algorithm group task
 
-## Contributors
+## Contributor
 
 - Github: [Zikoha-D](https://github.com/Zikoha-D)
+
